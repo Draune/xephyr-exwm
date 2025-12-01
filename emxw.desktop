@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=EXWM
+Comment=Run an Xephyr fullscreen window and launch Emacs With EXWM in it
+Exec=xephyr-exwm
+Type=Application
+Icon=emacs
+Terminal=false
